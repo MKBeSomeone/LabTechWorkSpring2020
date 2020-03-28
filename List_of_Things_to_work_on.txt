@@ -1,0 +1,11 @@
+Uncompleted
+	General 3D lab rules
+	guilde to using the Lulzbot Taz
+	guideline to using the makerbot
+	create submission policy for future projects so that more students/faculty can print
+	Create list of future projects to work on
+	find pictures of all projects from this semester
+	update 3D poster
+	write short report on 3D printing in CS department
+
+Completed
