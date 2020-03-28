@@ -1,11 +1,26 @@
 Uncompleted
 	General 3D lab rules
-	guilde to using the Lulzbot Taz
+	guideline to using the Lulzbot Taz
 	guideline to using the makerbot
 	create submission policy for future projects so that more students/faculty can print
 	Create list of future projects to work on
 	find pictures of all projects from this semester
 	update 3D poster
 	write short report on 3D printing in CS department
-
+	Find short cut sheet for blendr
+	Practice Blendr - upload projects
+	
+	Videos on how to download
+		Eclipse properly on window
+			maybe for mac if i ever get back into the maes building to use one of the Macs to test on
+		putty
+		forticlient
+		VM software
+		anaconda
+		Oz
+		
+	Since we are all virtual now, 
+	maybe develop a new policy for collecting and storying ABET information digitally
+	as to stay more organized and kill less trees #SaveTheTrees
+		
 Completed
