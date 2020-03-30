@@ -1,8 +1,8 @@
 Uncompleted
-	General 3D lab rules
+	
 	guideline to using the Lulzbot Taz
 	guideline to using the makerbot
-	create submission policy for future projects so that more students/faculty can print
+	
 	Create list of future projects to work on
 	find pictures of all projects from this semester
 	update 3D poster
@@ -24,3 +24,5 @@ Uncompleted
 	as to stay more organized and kill less trees #SaveTheTrees
 		
 Completed
+	create submission policy for future projects so that more students/faculty can print
+	General 3D lab rules
