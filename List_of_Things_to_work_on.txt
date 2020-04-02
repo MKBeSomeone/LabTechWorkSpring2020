@@ -2,13 +2,8 @@ Uncompleted
 	
 	guideline to using the Lulzbot Taz
 	guideline to using the makerbot
-	
 	Create list of future projects to work on
-	find pictures of all projects from this semester
-	update 3D poster
 	write short report on 3D printing in CS department
-	Find short cut sheet for blendr
-	Practice Blendr - upload projects
 	
 	Videos on how to download
 		Eclipse properly on window
@@ -26,3 +21,7 @@ Uncompleted
 Completed
 	create submission policy for future projects so that more students/faculty can print
 	General 3D lab rules
+	find pictures of all projects from this semester
+	update 3D poster
+	Practice Blendr - upload projects
+	Find short cut sheet for blendr
